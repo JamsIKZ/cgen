@@ -524,7 +524,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/91.jpg",
       description: (
         <p>
-          CineGen's decentralized GPU access has revolutionized my creative workflow.
+          CineGen&apos;s decentralized GPU access has revolutionized my creative workflow.
           <Highlight>
             I can now generate high-quality AI art at a fraction of the cost.
           </Highlight>{" "}
@@ -541,7 +541,7 @@ export const siteConfig = {
         <p>
           The NFT licensing system in CineGen has transformed how we monetize our AI-generated content.
           <Highlight>Clear ownership and revenue sharing built right into the protocol.</Highlight>{" "}
-          It's exactly what the industry needed.
+          It&apos;s exactly what the industry needed.
         </p>
       ),
     },
@@ -552,7 +552,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/45.jpg",
       description: (
         <p>
-          As an indie dev, CineGen's pay-per-use model is perfect for our budget.
+          CineGen&apos;s pay-per-use model is perfect for our budget.
           <Highlight>We only pay for the GPU time we actually use.</Highlight>{" "}
           The Solana integration makes transactions instant and nearly free.
         </p>
@@ -565,7 +565,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/women/83.jpg",
       description: (
         <p>
-          CineGen's decentralized compute pools have eliminated our GPU bottlenecks.
+          CineGen&apos;s decentralized compute pools have eliminated our GPU bottlenecks.
           <Highlight>Batch processing is now seamless and efficient.</Highlight>{" "}
           Essential for large-scale content production.
         </p>
@@ -578,7 +578,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/1.jpg",
       description: (
         <p>
-          The protocol's model marketplace has given our AI models real utility.
+          The protocol&apos;s model marketplace has given our AI models real utility.
           <Highlight>
             Creators can easily access and compensate for model usage.
           </Highlight>{" "}
@@ -593,7 +593,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/women/5.jpg",
       description: (
         <p>
-          CineGen's governance system gives us a real voice in protocol development.
+          CineGen&apos;s governance system gives us a real voice in protocol development.
           <Highlight>
             Our token stake lets us influence which AI models to integrate next.
           </Highlight>{" "}
@@ -623,7 +623,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/women/56.jpg",
       description: (
         <p>
-          CineGen's Creator tier has transformed our studio's capabilities.
+          CineGen&apos;s Creator tier has transformed our studio&apos;s capabilities.
           <Highlight>
             Priority processing and advanced model access accelerate our workflow.
           </Highlight>{" "}
@@ -638,9 +638,9 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/18.jpg",
       description: (
         <p>
-          Providing compute power to CineGen's network is highly profitable.
+          CineGen&apos;s network is highly profitable.
           <Highlight>
-            The protocol's fair distribution of rewards incentivizes reliable service.
+            The protocol&apos;s fair distribution of rewards incentivizes reliable service.
           </Highlight>{" "}
           A well-designed system.
         </p>
@@ -653,7 +653,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/women/73.jpg",
       description: (
         <p>
-          Building on CineGen's smart contracts is a breeze.
+          Building on CineGen&apos;s smart contracts is a breeze.
           <Highlight>
             The Solana integration enables fast, low-cost transactions.
           </Highlight>{" "}
@@ -668,7 +668,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/25.jpg",
       description: (
         <p>
-          CineGen's Studio tier gives us the dedicated resources we need.
+          CineGen&apos;s Studio tier gives us the dedicated resources we need.
           <Highlight>
             Custom model training and API access streamline our VFX pipeline.
           </Highlight>{" "}
@@ -696,7 +696,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/54.jpg",
       description: (
         <p>
-          CineGen's tokenomics model is well thought out.
+          CineGen&apos;s tokenomics model is well thought out.
           <Highlight>
             The staking and governance mechanisms create perfect alignment.
           </Highlight>{" "}

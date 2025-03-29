@@ -76,9 +76,9 @@ export function WaitlistModal({ isOpen, onClose }: WaitlistModalProps) {
                     animate={{ opacity: 1, y: 0 }}
                     className="text-center"
                   >
-                    <h3 className="text-xl font-medium mb-2">🎉 You're on the list!</h3>
+                    <h3 className="text-xl font-medium mb-2">🎉 You&apos;re on the list!</h3>
                     <p className="text-muted-foreground">
-                      We'll notify you when CineGen launches.
+                      We&apos;ll notify you when CineGen launches.
                     </p>
                   </motion.div>
                 )}

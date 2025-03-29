@@ -24,6 +24,13 @@ interface FlickeringGridProps extends React.HTMLAttributes<HTMLDivElement> {
   fontWeight?: number | string;
 }
 
+interface GridParams {
+  cols: number;
+  rows: number;
+  squares: Float32Array;
+  dpr: number;
+}
+
 export const FlickeringGrid: React.FC<FlickeringGridProps> = ({
   squareSize = 3,
   gridGap = 3,
@@ -43,7 +50,7 @@ export const FlickeringGrid: React.FC<FlickeringGridProps> = ({
   const [isInView, setIsInView] = useState(false);
   const [canvasSize, setCanvasSize] = useState({ width: 0, height: 0 });
   const animationFrameIdRef = useRef<number>();
-  const gridParamsRef = useRef<any>(null);
+  const gridParamsRef = useRef<GridParams | null>(null);
   const lastTimeRef = useRef<number>(0);
 
   // Convert any CSS color to rgba for optimal canvas performance

@@ -70,7 +70,7 @@ export function FirstBentoAnimation() {
             }}
           >
             <p className="text-sm">
-              Hey, I'm interested in the CGEN protocol for AI-generated media. Can you tell me about its potential impact on the market?
+              Hey, I&apos;m interested in the CGEN protocol for AI-generated media. Can you tell me about its potential impact on the market?
             </p>
           </motion.div>
           <div className="flex items-center bg-background rounded-full w-fit border border-border flex-shrink-0">
