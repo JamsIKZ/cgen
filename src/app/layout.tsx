@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     template: `%s - ${siteConfig.name}`,
   },
   description: siteConfig.description,
+  openGraph: siteConfig.openGraph,
+  twitter: siteConfig.twitter
 };
 
 export default function RootLayout({

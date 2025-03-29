@@ -49,7 +49,7 @@ export const FlickeringGrid: React.FC<FlickeringGridProps> = ({
   const containerRef = useRef<HTMLDivElement>(null);
   const [isInView, setIsInView] = useState(false);
   const [canvasSize, setCanvasSize] = useState({ width: 0, height: 0 });
-  const animationFrameIdRef = useRef<number>();
+  const animationFrameIdRef = useRef<number | undefined>(undefined);
   const gridParamsRef = useRef<GridParams | null>(null);
   const lastTimeRef = useRef<number>(0);
 
