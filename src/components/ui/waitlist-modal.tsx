@@ -48,7 +48,7 @@ export function WaitlistModal({ isOpen, onClose }: WaitlistModalProps) {
               <div className="flex flex-col items-center text-center">
                 <h2 className="text-2xl font-semibold tracking-tight mb-2">Join the Waitlist</h2>
                 <p className="text-muted-foreground mb-6">
-                  Be the first to access CineGen's decentralized AI media generation protocol.
+                  Be the first to access CineGen&apos;s decentralized AI media generation protocol.
                 </p>
 
                 {!isSubmitted ? (
