@@ -760,17 +760,29 @@ export const siteConfig = {
   },
   footerLinks: [
     {
-      title: "",
-      links: [],
+      title: "Protocol",
+      links: [
+        { id: 1, title: "Documentation", url: "#" },
+        { id: 2, title: "Whitepaper", url: "#" },
+        { id: 3, title: "GitHub", url: "#" }
+      ]
     },
     {
-      title: "",
-      links: [],
+      title: "Community",
+      links: [
+        { id: 4, title: "Discord", url: "#" },
+        { id: 5, title: "Twitter", url: "#" },
+        { id: 6, title: "Blog", url: "#" }
+      ]
     },
     {
-      title: "",
-      links: [],
-    },
+      title: "Resources",
+      links: [
+        { id: 7, title: "FAQ", url: "#faq" },
+        { id: 8, title: "Terms", url: "#" },
+        { id: 9, title: "Privacy", url: "#" }
+      ]
+    }
   ],
 };
 
